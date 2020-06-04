@@ -36,7 +36,7 @@ public class TraversalTree {
     }
 
     /**
-     * POS-ORDER
+     * PRE-ORDER
      *  ROOT - LEFT - RIGHT
      */
     public static void preOrder(BinaryTree tree) {
